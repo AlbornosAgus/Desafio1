@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MaxiPrograma\\Nivel 2\\Desafio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B194FD5E-A61F-4850-A13C-1C0AE73AEF72}|Desafio1\\Desafio1.csproj|c:\\users\\admin\\desktop\\maxiprograma\\nivel 2\\desafio1\\desafio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B194FD5E-A61F-4850-A13C-1C0AE73AEF72}|Desafio1\\Desafio1.csproj|solutionrelative:desafio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B194FD5E-A61F-4850-A13C-1C0AE73AEF72}|Desafio1\\Desafio1.csproj|C:\\Users\\Admin\\Desktop\\MaxiPrograma\\Nivel 2\\Desafio1\\desafio1\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B194FD5E-A61F-4850-A13C-1C0AE73AEF72}|Desafio1\\Desafio1.csproj|solutionrelative:desafio1\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Telefono.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MaxiPrograma\\Nivel 2\\Desafio1\\Desafio1\\Telefono.cs",
+              "RelativeDocumentMoniker": "Desafio1\\Telefono.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MaxiPrograma\\Nivel 2\\Desafio1\\Desafio1\\Telefono.cs",
+              "RelativeToolTip": "Desafio1\\Telefono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T04:56:10.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MaxiPrograma\\Nivel 2\\Desafio1\\Desafio1\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MaxiPrograma\\Nivel 2\\Desafio1\\Desafio1\\Program.cs",
+              "RelativeToolTip": "Desafio1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T04:50:55.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
